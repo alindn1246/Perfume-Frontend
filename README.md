@@ -1,3 +1,16 @@
+Perfume Website - Frontend(Under Construction)
+This repository contains the frontend implementation of a Perfume Website is being developed using React. The frontend provides an elegant user interface for browsing a collection of perfumes, exploring different brands, and learning about fragrance notes. Users can add perfumes to their favorites, view detailed product information, and make purchases through an integrated shopping cart.
+
+Features
+Perfume Catalog: Browse through a curated collection of perfumes from various brands.
+Search Functionality: Search for perfumes by name, brand, or fragrance notes.
+Product Details: View detailed information about each perfume, including description, price, and bottle size.
+Favorites: Mark perfumes as favorites for quick access later.
+Shopping Cart: Add perfumes to the shopping cart, review the cart contents, and proceed to checkout.
+User Authentication: Register an account, log in with existing credentials, and maintain a secure session.
+User Profile: View and update user profile information, including shipping address and contact details.
+Order History: Access a history of past orders and view order details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
